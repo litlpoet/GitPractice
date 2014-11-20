@@ -1,4 +1,4 @@
 GitPractice
 ===========
 
-Repository for practicing Git by myself
+Repository for practicing Git by myself.
